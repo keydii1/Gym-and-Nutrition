@@ -1,0 +1,21 @@
+﻿Routine Item,Session,Day of Week,Focus Muscle,Exercise,Order,Planned Sets,Target Reps,Target RIR,Rest Seconds,Progression Cues,Alternative
+Upper A - 1. Incline Dumbbell Bench Press,Upper A,Thứ Hai,Ngực & Lưng Xô,Incline Dumbbell Bench Press,1,3,8 - 10 reps,RIR 2,2.0 phút,"Hạ tạ chậm 3 giây, ép ngực trên",Machine Chest Press
+Upper A - 2. Lat Pulldown (Kéo xô máy),Upper A,Thứ Hai,Ngực & Lưng Xô,Lat Pulldown (Kéo xô máy),2,3,8 - 10 reps,RIR 2,2.0 phút,"Kéo xô chạm xương đòn, giữ 1s",Seated Cable Row
+Upper A - 3. Machine Chest Press,Upper A,Thứ Hai,Ngực & Lưng Xô,Machine Chest Press,3,3,10 - 12 reps,RIR 1-2,90 giây,"Đẩy hết biên độ, không khóa khuỷu",Push-up
+Upper A - 4. Dumbbell Lateral Raise,Upper A,Thứ Hai,Ngực & Lưng Xô,Dumbbell Lateral Raise,4,3,12 - 15 reps,RIR 1,60 giây,"Nâng tạ ngang vai, không nhún người",Cable Lateral Raise
+Upper A - 5. Tricep Cable Rope Pushdown,Upper A,Thứ Hai,Ngực & Lưng Xô,Tricep Cable Rope Pushdown,5,3,10 - 12 reps,RIR 1,60 giây,"Khóa khuỷu tay sát sườn, siết bắp tay sau",Overhead DB Extension
+Lower A - 1. Goblet Squat (Squat ôm tạ),Lower A,Thứ Ba,Đùi Trước & Đùi Sau,Goblet Squat (Squat ôm tạ),1,3,8 - 10 reps,RIR 2,2.0 phút,"Ôm tạ trước ngực, ngồi xổm thẳng lưng",Leg Press
+Lower A - 2. Dumbbell Romanian Deadlift (RDL),Lower A,Thứ Ba,Đùi Trước & Đùi Sau,Dumbbell Romanian Deadlift (RDL),2,3,8 - 10 reps,RIR 2,2.0 phút,"Đẩy mông về sau, giữ lưng thẳng tuyệt đối",Seated Leg Curl
+Lower A - 3. Leg Press (Máy đạp đùi),Lower A,Thứ Ba,Đùi Trước & Đùi Sau,Leg Press (Máy đạp đùi),3,3,10 - 12 reps,RIR 2,2.0 phút,"Hạ đùi sâu 90 độ, KHÔNG khóa khớp gối",Goblet Squat
+Lower A - 4. Seated Leg Curl (Máy cuộn đùi ngồi),Lower A,Thứ Ba,Đùi Trước & Đùi Sau,Seated Leg Curl (Máy cuộn đùi ngồi),4,3,10 - 12 reps,RIR 1,90 giây,"Cuộn đùi sau dứt khoát, nhả chậm 3s",Lying Leg Curl
+Lower A - 5. Plank,Lower A,Thứ Ba,Đùi Trước & Đùi Sau,Plank,5,3,30 - 45 giây,RIR 1,60 giây,Siết bụng mông đùi thành 1 đường thẳng,Hanging Knee Raise
+Upper B - 1. Chest-Supported Dumbbell Row,Upper B,Thứ Năm,Lưng Xô & Ngực/Vai,Chest-Supported Dumbbell Row,1,3,8 - 10 reps,RIR 2,2.0 phút,"Tựa ngực trên ghế dốc, kéo tạ ép lưng",Seated Cable Row
+Upper B - 2. Flat Dumbbell Bench Press,Upper B,Thứ Năm,Lưng Xô & Ngực/Vai,Flat Dumbbell Bench Press,2,3,8 - 10 reps,RIR 2,2.0 phút,"Kéo căng ngực dưới, đẩy lên dứt khoát",Incline DB Press
+Upper B - 3. Seated Cable Row (Kéo cáp ngồi),Upper B,Thứ Năm,Lưng Xô & Ngực/Vai,Seated Cable Row (Kéo cáp ngồi),3,3,10 - 12 reps,RIR 1-2,90 giây,"Kéo về rốn, ép bả vai 1 giây",Lat Pulldown
+Upper B - 4. Seated Dumbbell Shoulder Press,Upper B,Thứ Năm,Lưng Xô & Ngực/Vai,Seated Dumbbell Shoulder Press,4,3,8 - 10 reps,RIR 2,2.0 phút,Đẩy tạ qua đầu thẳng hàng với tai,Machine Shoulder Press
+Upper B - 5. Incline Dumbbell Curl,Upper B,Thứ Năm,Lưng Xô & Ngực/Vai,Incline Dumbbell Curl,5,3,10 - 12 reps,RIR 1,60 giây,"Kéo căng bắp tay trước, cuộn lên siết đỉnh",Hammer Curl
+Lower B - 1. Leg Press (Máy đạp đùi),Lower B,Thứ Sáu,Toàn Diện Chân & Mông,Leg Press (Máy đạp đùi),1,3,10 - 12 reps,RIR 2,2.0 phút,"Đạp bằng gót chân, kiểm soát nhịp hạ",Goblet Squat
+Lower B - 2. Dumbbell Lunge,Lower B,Thứ Sáu,Toàn Diện Chân & Mông,Dumbbell Lunge,2,3,10 reps/chân,RIR 2,90 giây,"Bước chân chắc chắn, thân người thẳng",Bulgarian Split Squat
+Lower B - 3. Leg Extension (Máy đá đùi),Lower B,Thứ Sáu,Toàn Diện Chân & Mông,Leg Extension (Máy đá đùi),3,3,12 - 15 reps,RIR 1,90 giây,"Đá thẳng siết đùi trước 1s, hạ chậm",Goblet Squat
+Lower B - 4. Standing Calf Raise (Nhón bắp chân),Lower B,Thứ Sáu,Toàn Diện Chân & Mông,Standing Calf Raise (Nhón bắp chân),4,3,12 - 15 reps,RIR 1,60 giây,"Nhón cao gót chân, giữ đỉnh 1s",Seated Calf Raise
+Lower B - 5. Hanging Knee Raise (Treo xà co gối),Lower B,Thứ Sáu,Toàn Diện Chân & Mông,Hanging Knee Raise (Treo xà co gối),5,3,10 - 12 reps,RIR 1,60 giây,"Cuộn xương chậu lên, không lấy đà",Plank
